@@ -1,4 +1,4 @@
-﻿namespace Tiempos.frm
+﻿namespace Tiempos.View
 {
     partial class frmLogin
     {

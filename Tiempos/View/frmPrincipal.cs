@@ -8,7 +8,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tiempos
+
+namespace Tiempos.View
 {
     public partial class Form1 : Form
     {
@@ -16,5 +17,16 @@ namespace Tiempos
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnRegister_Click(object sender, EventArgs e)
+        {
+           
+        }
+
     }
 }

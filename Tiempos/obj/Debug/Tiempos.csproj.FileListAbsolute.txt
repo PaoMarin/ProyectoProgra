@@ -6,3 +6,12 @@ c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug
 c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.csproj.GenerateResource.Cache
 c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.exe
 c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.pdb
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\bin\Debug\Tiempos.exe.config
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.exe
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.pdb
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\bin\Debug\Tiempos.exe
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\bin\Debug\Tiempos.pdb
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.csprojResolveAssemblyReference.cache
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.Properties.Resources.resources
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.csproj.GenerateResource.Cache
+C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.View.Form1.resources
