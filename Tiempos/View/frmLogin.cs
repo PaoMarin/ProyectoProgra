@@ -8,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Tiempos.frm
+namespace Tiempos.View
 {
     public partial class frmLogin : Form
     {
