@@ -1,0 +1,8 @@
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\bin\Debug\Tiempos.exe.config
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\bin\Debug\Tiempos.exe
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\bin\Debug\Tiempos.pdb
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.csprojResolveAssemblyReference.cache
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.Properties.Resources.resources
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.csproj.GenerateResource.Cache
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.exe
+c:\users\mario\documents\visual studio 2015\Projects\ProyectoI\Tiempos\obj\Debug\Tiempos.pdb
