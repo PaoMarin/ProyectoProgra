@@ -10,24 +10,11 @@ using System.Windows.Forms;
 
 namespace Tiempos.View
 {
-    public partial class frmLogin : Form
+    public partial class frmApuesta : Form
     {
-        public frmLogin()
+        public frmApuesta()
         {
             InitializeComponent();
-           
-        }
-
-       
-
-        private void btnCancel_Click(object sender, EventArgs e)
-        {
-            this.Close();
-        }
-
-        private void frmLogin_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
