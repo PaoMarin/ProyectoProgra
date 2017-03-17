@@ -85,7 +85,6 @@
             this.txtPossword.Name = "txtPossword";
             this.txtPossword.Size = new System.Drawing.Size(150, 20);
             this.txtPossword.TabIndex = 5;
-            this.txtPossword.TextChanged += new System.EventHandler(this.txtPossword_TextChanged);
             // 
             // btnAcept
             // 
@@ -106,8 +105,6 @@
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
-            this.SuspendLayout();
-            // 
             // frmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -124,14 +121,9 @@
             this.Name = "frmLogin";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "frmLogin";
-            this.Load += new System.EventHandler(this.frmLogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-            this.ClientSize = new System.Drawing.Size(284, 261);
-            this.Name = "frmLogin";
-            this.Text = "frmLogin";
-            this.Load += new System.EventHandler(this.frmLogin_Load);
-            this.ResumeLayout(false);
+
         }
 
         #endregion
