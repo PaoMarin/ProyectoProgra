@@ -41,7 +41,7 @@
             // lblName
             // 
             this.lblName.AutoSize = true;
-            this.lblName.Location = new System.Drawing.Point(12, 31);
+            this.lblName.Location = new System.Drawing.Point(12, 27);
             this.lblName.Name = "lblName";
             this.lblName.Size = new System.Drawing.Size(47, 13);
             this.lblName.TabIndex = 0;
@@ -50,7 +50,7 @@
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(12, 73);
+            this.label2.Location = new System.Drawing.Point(12, 66);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(41, 13);
             this.label2.TabIndex = 1;
@@ -74,7 +74,7 @@
             // 
             // txtMail
             // 
-            this.txtMail.Location = new System.Drawing.Point(85, 66);
+            this.txtMail.Location = new System.Drawing.Point(85, 63);
             this.txtMail.Name = "txtMail";
             this.txtMail.Size = new System.Drawing.Size(150, 20);
             this.txtMail.TabIndex = 4;
@@ -85,6 +85,7 @@
             this.txtPossword.Name = "txtPossword";
             this.txtPossword.Size = new System.Drawing.Size(150, 20);
             this.txtPossword.TabIndex = 5;
+            this.txtPossword.TextChanged += new System.EventHandler(this.txtPossword_TextChanged);
             // 
             // btnAcept
             // 
