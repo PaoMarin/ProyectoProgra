@@ -15,6 +15,24 @@ namespace Tiempos.View
         public frmLogin()
         {
             InitializeComponent();
+           
+        }
+
+       
+
+        private void btnCancel_Click(object sender, EventArgs e)
+        {
+            this.Close();
+        }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtPossword_TextChanged(object sender, EventArgs e)
+        {
+
         }
 
         private void frmLogin_Load(object sender, EventArgs e)
