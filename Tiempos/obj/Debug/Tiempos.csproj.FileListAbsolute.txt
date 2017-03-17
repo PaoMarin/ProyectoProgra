@@ -15,3 +15,13 @@ C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.
 C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.Properties.Resources.resources
 C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.csproj.GenerateResource.Cache
 C:\Users\Leo\Desktop\Progra3\ProyectoI\ProyectoProgra\Tiempos\obj\Debug\Tiempos.View.Form1.resources
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\bin\Debug\Tiempos.exe.config
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\obj\Debug\Tiempos.exe
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\obj\Debug\Tiempos.pdb
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\bin\Debug\Tiempos.exe
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\bin\Debug\Tiempos.pdb
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\obj\Debug\Tiempos.csprojResolveAssemblyReference.cache
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\obj\Debug\Tiempos.Properties.Resources.resources
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\obj\Debug\Tiempos.View.frmLogin.resources
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\obj\Debug\Tiempos.View.Form1.resources
+C:\Users\Mario\Desktop\proyectogit\ProyectoProgra\Tiempos\obj\Debug\Tiempos.csproj.GenerateResource.Cache

@@ -34,5 +34,10 @@ namespace Tiempos.View
         {
 
         }
+
+        private void frmLogin_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

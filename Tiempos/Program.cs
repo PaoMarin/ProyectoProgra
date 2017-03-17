@@ -9,6 +9,7 @@ namespace Tiempos
 {
     static class Program
     {
+        public static DBAccess.DBAccess da;
         /// <summary>
         /// Punto de entrada principal para la aplicación.
         /// </summary>

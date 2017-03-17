@@ -106,6 +106,8 @@
             this.btnCancel.UseVisualStyleBackColor = true;
             this.btnCancel.Click += new System.EventHandler(this.btnCancel_Click);
             // 
+            this.SuspendLayout();
+            // 
             // frmLogin
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -125,7 +127,11 @@
             this.Load += new System.EventHandler(this.frmLogin_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
-
+            this.ClientSize = new System.Drawing.Size(284, 261);
+            this.Name = "frmLogin";
+            this.Text = "frmLogin";
+            this.Load += new System.EventHandler(this.frmLogin_Load);
+            this.ResumeLayout(false);
         }
 
         #endregion
