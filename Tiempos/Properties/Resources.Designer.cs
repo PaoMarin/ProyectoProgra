@@ -63,9 +63,9 @@ namespace Tiempos.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap Imagen2 {
+        internal static System.Drawing.Bitmap ImagenApuesta {
             get {
-                object obj = ResourceManager.GetObject("Imagen2", resourceCulture);
+                object obj = ResourceManager.GetObject("ImagenApuesta", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

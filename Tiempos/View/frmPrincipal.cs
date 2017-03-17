@@ -41,5 +41,15 @@ namespace Tiempos.View
             }
             return true;
         }
+
+        private void frmPrincipal_Load(object sender, EventArgs e)
+        {
+
+        }
+
+        private void apuestaToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

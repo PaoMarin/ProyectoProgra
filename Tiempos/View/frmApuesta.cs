@@ -15,6 +15,12 @@ namespace Tiempos.View
         public frmApuesta()
         {
             InitializeComponent();
+            lblDatosPersona.Text = "Paola Marin Cedula:20202020";
+        }
+
+        private void frmApuesta_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
