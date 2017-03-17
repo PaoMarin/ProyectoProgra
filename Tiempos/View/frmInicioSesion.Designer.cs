@@ -55,6 +55,7 @@
             this.lbMail.Size = new System.Drawing.Size(41, 13);
             this.lbMail.TabIndex = 1;
             this.lbMail.Text = "Correo:";
+            this.lbMail.Click += new System.EventHandler(this.label1_Click);
             // 
             // lblPasword
             // 

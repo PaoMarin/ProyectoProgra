@@ -29,10 +29,5 @@ namespace Tiempos.View
         {
 
         }
-
-        private void txtPossword_TextChanged(object sender, EventArgs e)
-        {
-
-        }
     }
 }

@@ -18,21 +18,26 @@ namespace Tiempos.View
             InitializeComponent();
         }
 
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
         private void btnRegister_Click(object sender, EventArgs e)
         {
             frmLogin oFrmLogin = new frmLogin();
             oFrmLogin.Show();
         }
-        
-        private void btnEnter_Click(object sender, EventArgs e)
-        {
-            frmPrincipal oFrmPrincipal = new frmPrincipal();
-            oFrmPrincipal.Show(); 
-        }
 
         private void Form1_Load(object sender, EventArgs e)
         {
 
+        }
+
+        private void btnEnter_Click(object sender, EventArgs e)
+        {
+            frmPrincipal oFrmPrincipal = new frmPrincipal();
+            oFrmPrincipal.Show(); 
         }
     }
 }

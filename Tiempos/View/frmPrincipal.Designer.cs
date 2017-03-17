@@ -3,14 +3,14 @@
     partial class frmPrincipal
     {
         /// <summary>
-        /// Variable del diseñador necesaria.
+        /// Required designer variable.
         /// </summary>
         private System.ComponentModel.IContainer components = null;
 
         /// <summary>
-        /// Limpiar los recursos que se estén usando.
+        /// Clean up any resources being used.
         /// </summary>
-        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        /// <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
         protected override void Dispose(bool disposing)
         {
             if (disposing && (components != null))
@@ -20,67 +20,65 @@
             base.Dispose(disposing);
         }
 
-        #region Código generado por el Diseñador de Windows Forms
+        #region Windows Form Designer generated code
 
         /// <summary>
-        /// Método necesario para admitir el Diseñador. No se puede modificar
-        /// el contenido de este método con el editor de código.
+        /// Required method for Designer support - do not modify
+        /// the contents of this method with the code editor.
         /// </summary>
         private void InitializeComponent()
         {
             this.menuStrip1 = new System.Windows.Forms.MenuStrip();
-            this.apuestaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.apuestaToolStripMenuItem1 = new System.Windows.Forms.ToolStripMenuItem();
+            this.menúToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.apuestasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
             // 
             // menuStrip1
             // 
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.apuestaToolStripMenuItem});
+            this.menúToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
-            this.menuStrip1.Size = new System.Drawing.Size(632, 24);
-            this.menuStrip1.TabIndex = 4;
+            this.menuStrip1.Size = new System.Drawing.Size(284, 24);
+            this.menuStrip1.TabIndex = 0;
             this.menuStrip1.Text = "menuStrip1";
             // 
-            // apuestaToolStripMenuItem
+            // menúToolStripMenuItem
             // 
-            this.apuestaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.apuestaToolStripMenuItem1});
-            this.apuestaToolStripMenuItem.Name = "apuestaToolStripMenuItem";
-            this.apuestaToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
-            this.apuestaToolStripMenuItem.Text = "Menu";
+            this.menúToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.apuestasToolStripMenuItem});
+            this.menúToolStripMenuItem.Name = "menúToolStripMenuItem";
+            this.menúToolStripMenuItem.Size = new System.Drawing.Size(50, 20);
+            this.menúToolStripMenuItem.Text = "Menú";
             // 
-            // apuestaToolStripMenuItem1
+            // apuestasToolStripMenuItem
             // 
-            this.apuestaToolStripMenuItem1.Name = "apuestaToolStripMenuItem1";
-            this.apuestaToolStripMenuItem1.Size = new System.Drawing.Size(152, 22);
-            this.apuestaToolStripMenuItem1.Text = "Apuesta";
-            this.apuestaToolStripMenuItem1.Click += new System.EventHandler(this.apuestaToolStripMenuItem1_Click);
+            this.apuestasToolStripMenuItem.Name = "apuestasToolStripMenuItem";
+            this.apuestasToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.apuestasToolStripMenuItem.Text = "Apuestas";
             // 
             // frmPrincipal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(632, 453);
+            this.ClientSize = new System.Drawing.Size(284, 261);
             this.Controls.Add(this.menuStrip1);
-            this.IsMdiContainer = true;
+            this.MainMenuStrip = this.menuStrip1;
             this.Name = "frmPrincipal";
-            this.Text = "MDIParent1";
+            this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
+            this.Text = "frmPrincipal";
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
         }
+
         #endregion
 
         private System.Windows.Forms.MenuStrip menuStrip1;
-        private System.Windows.Forms.ToolStripMenuItem apuestaToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem apuestaToolStripMenuItem1;
+        private System.Windows.Forms.ToolStripMenuItem menúToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem apuestasToolStripMenuItem;
     }
 }
-
-
-
